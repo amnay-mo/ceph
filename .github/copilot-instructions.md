@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-Ceph is a scalable distributed storage system providing object, block, and file storage in a unified platform. The codebase is approximately 281MB with 177 CMakeLists.txt files across the project.
+Ceph is a scalable distributed storage system providing object, block, and file storage in a unified platform. The codebase is large (hundreds of megabytes) with many CMakeLists.txt files across the project.
 
 **Primary Languages & Technologies:**
 - C++ (main codebase - follows Google C++ Style Guide with modifications)
