@@ -193,7 +193,6 @@ ARGS="-DCMAKE_C_COMPILER=gcc-12 -DCMAKE_CXX_COMPILER=g++-12" ./do_cmake.sh
 ```bash
 cd build
 ninja <target_name>  # Build only specific target
-ninja install        # Install vstart cluster
 ```
 
 ## Container Builds
